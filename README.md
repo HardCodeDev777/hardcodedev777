@@ -14,11 +14,11 @@
 
 ## ⭐️ Best Achievements
 
-- Created world's first game framework that lets you talk with AI.
+- Created world's first Unity framework that lets you talk with AI in real-time
+- Created world's first Unity tool for real-time emotion, gesture & blink recognition from webcam.
 - Integrated [Ollama](https://ollama.com) in C++, C and Unity.
 - Some of my repositories were added to [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations).
 - Created desktop app in Rust that monitors game you're playing and changes Github status based on it.
-- Created repository generator in Go that lets you add unlimited repositories to your GitHub profile.
 
 ---
 
@@ -28,8 +28,8 @@
 
 ---
 
-## 🔥 Languages & Frameworks & Tools 🔥
-![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,pycharm,github,ollama,mkdocs,blender,capcut,dotnet,blazor,slint,materialformkdocs,csharp,cpp,c,rust,golang,javascript,typescript,python,powershell,html,css)
+## 🔥 Languages & Frameworks & Tools I work with:
+![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,github,ollama,mkdocs,blender,capcut,dotnet,slint,materialformkdocs,csharp,cpp,rust,javascript,python,powershell)
 
 ---
 
