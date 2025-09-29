@@ -29,7 +29,7 @@
 ---
 
 ## 🔥 Languages & Frameworks & Tools I work with:
-![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,github,ollama,mkdocs,blender,capcut,dotnet,slint,materialformkdocs,csharp,cpp,rust,javascript,python,powershell)
+![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,github,ollama,mkdocs,blender,capcut,dotnet,slint,materialformkdocs,csharp,cpp,rust,javascript,python,powershell,batchfile)
 
 ---
 
