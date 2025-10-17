@@ -24,7 +24,7 @@
 
 ## 📊 Statistic
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=20&theme=holi)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=20&theme=holi&hide=css,html,xml,markdown)
 
 ---
 
