@@ -32,7 +32,7 @@
 ---
 
 ## 🔥 Languages & Frameworks & Tools I work with:
-![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,blender,dnspy,visualstudio,visualstudiocode,ollama,mkdocs,dotnet,vue,nuxt,slint,csharp,cpp,rust,typescript,javascript,python,batchfile&perline=10)
+![Icons](https://skills.syvixor.com/api/icons?i=windows,git,github,unity,blender,dnspy,visualstudio,visualstudiocode,ollama,mkdocs,dotnet,vue,nuxt,slint,csharp,cpp,rust,typescript,javascript,batchfile&perline=10)
 
 ---
 
