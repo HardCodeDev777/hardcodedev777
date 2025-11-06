@@ -27,12 +27,18 @@
 ## 📊 Statistic
 
 <!-- Hide C, cuz it has a very small percantage -->
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=20&theme=holi&hide=css,html,xml,markdown,c)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown,c)
 
 ---
 
 ## 🔥 Languages & Frameworks & Tools I work with:
-![Icons](https://skills.syvixor.com/api/icons?i=windows,git,github,unity,blender,dnspy,visualstudio,visualstudiocode,ollama,mkdocs,dotnet,vue,nuxt,slint,csharp,cpp,rust,typescript,javascript,batchfile&perline=10)
+![Stack](https://skills.syvixor.com/api/icons?i=windows,unity,dnspy,visualstudio,visualstudiocode,ollama,dotnet,csharp,batchfile)
+
+&nbsp;
+
+## 🧪 But I also experiment with these things:
+
+![Stack](https://skills.syvixor.com/api/icons?i=mkdocs,slint,vue,nuxt,javascript,typescript,rust,cpp,python)
 
 ---
 
