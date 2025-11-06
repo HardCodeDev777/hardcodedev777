@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 Statistic
+## 📊 Stats
 
 <!-- Hide C and TypeScript cuz they have a very small percantage -->
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown,c,typescript)
@@ -38,7 +38,7 @@
 
 ## 🧪 But I also experiment with these things:
 
-![Stack](https://skills.syvixor.com/api/icons?i=mkdocs,slint,vue,nuxt,javascript,typescript,rust,cpp,python)
+![Stack](https://skills.syvixor.com/api/icons?i=mkdocs,slint,vue,nuxt,javascript,typescript,rust,cpp,c,python)
 
 ---
 
