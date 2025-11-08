@@ -6,11 +6,11 @@
 
 ---
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=14+y.o.+developer+from+Russia;Middle+Unity%2FC%23+developer;And+just+a+cool+guy">
   </a>
-</h1>
+</p>
 
 ---
 
