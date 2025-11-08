@@ -14,6 +14,22 @@
 
 ---
 
+<pre>
+Cool GitHub ReadMe [Version 37.0.0]
+(c) HardCodeDev. All rights reserved.
+  
+C:\Windows\System32> systeminfo
+
+💻 OS: <b>Windows 11</b>
+🖱️ Unity Version: <b>Unity 6.0</b>
+🗣️ GOAT Language: <b>C#</b>
+🎮 Favorite Game: <b>Red Dead Redemption 2</b>
+
+C:\Windows\System32> exit
+</pre>
+
+---
+
 ## ⭐️ Best Achievements
 
 - Created world's first Unity framework that lets you talk with AI in real-time
@@ -39,20 +55,6 @@
 ## 🧪 But I also experiment with these things:
 
 ![Stack](https://skills.syvixor.com/api/icons?i=mkdocs,slint,vue,nuxt,javascript,typescript,rust,cpp,c,python)
-
----
-
-<pre>
-C:\Windows\System32> systeminfo
-
-💻 OS: <b>Windows 11</b>
-🖱️ Unity Version: <b>Unity 6.0</b>
-🗣️ GOAT Language: <b>C#</b>
-🎮 Favorite Game: <b>Red Dead Redemption 2</b>
-
-C:\Windows\System32> exit
-</pre>
-
 ---
 
 ## ✍️
