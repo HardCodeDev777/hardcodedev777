@@ -42,6 +42,19 @@
 
 ---
 
+<pre>
+C:\Windows\System32> systeminfo
+
+💻 OS: <b>Windows 11</b>
+🖱️ Unity Version: <b>Unity 6.0</b>
+🗣️ GOAT Language: <b>C#</b>
+🎮 Favorite Game: <b>Red Dead Redemption 2</b>
+
+C:\Windows\System32> exit
+</pre>
+
+---
+
 ## ✍️
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=I%20don%E2%80%99t%20write%20bugs.%20I%20write%20unexpected%20features%20that%20scare%20the%20compiler.)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=It%20works%20on%20my%20machine.)
