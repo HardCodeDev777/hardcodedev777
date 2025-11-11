@@ -15,14 +15,14 @@
 ---
 
 <pre>
-Cool GitHub ReadMe [Version 38.0.0]
+Cool GitHub ReadMe [Version 39.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
 
 💻 OS: <b>Windows 11</b>
 🖱️ Unity Version: <b>Unity 6.0</b>
-🗣️ GOAT Language: <b>C#</b>
+👀 Main IDE: <b>Visual Studio 2026 Insiders</b>
 🎮 Favorite Game: <b>Red Dead Redemption 2</b>
 
 C:\Windows\System32> exit
