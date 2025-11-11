@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=14+y.o.+developer+from+Russia;Middle+Unity%2FC%23+developer;And+just+a+cool+guy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=14+y.o.+developer+from+Russia;Middle+Unity+Tech+Engineer;And+just+a+cool+guy">
   </a>
 </p>
 
 ---
 
 <pre>
-Cool GitHub ReadMe [Version 37.0.0]
+Cool GitHub ReadMe [Version 38.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -34,7 +34,7 @@ C:\Windows\System32> exit
 
 - Created world's first Unity framework that lets you talk with AI in real-time
 - Created world's first Unity tool for real-time emotion, gesture & blink recognition from webcam.
-- Integrated [Ollama](https://ollama.com) in C++, C and Unity.
+- Integrated [Ollama](https://ollama.com) in Unity and C++.
 - Some of my repositories were added to [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations).
 - Created desktop app in Rust that monitors game you're playing and changes Github status based on it.
 
