@@ -15,7 +15,7 @@
 ---
 
 <pre>
-Cool GitHub ReadMe [Version 39.0.0]
+Cool GitHub ReadMe [Version 40.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -37,13 +37,14 @@ C:\Windows\System32> exit
 - Integrated [Ollama](https://ollama.com) in Unity and C++.
 - Some of my repositories were added to [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations).
 - Created desktop app in Rust that monitors game you're playing and changes Github status based on it.
+- Created suitable for micro-benchmarks and hot-path measurement, zero-allocation, native high-resolution timer for Unity
 
 ---
 
 ## 📊 Stats
 
 <!-- Hide C and TypeScript cuz they have a very small percantage -->
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown,c,typescript)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown,typescript)
 
 ---
 
