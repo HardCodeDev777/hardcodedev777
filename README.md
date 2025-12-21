@@ -15,7 +15,7 @@
 ---
 
 <pre>
-Cool GitHub ReadMe [Version 40.0.0]
+Cool GitHub ReadMe [Version 41.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -49,13 +49,13 @@ C:\Windows\System32> exit
 ---
 
 ## 🔥 Languages & Frameworks & Tools I work with:
-![Stack](https://skills.syvixor.com/api/icons?i=windows,unity,dnspy,visualstudio,visualstudiocode,ollama,dotnet,csharp,batchfile)
+![Stack](https://skills.syvixor.com/api/icons?i=windows,unity,dnspy,visualstudio,visualstudiocode,dotnet,csharp,batchfile)
 
 &nbsp;
 
-## 🧪 But I also experiment with these things:
+## 🧪 I also experiment with these things:
 
-![Stack](https://skills.syvixor.com/api/icons?i=mkdocs,slint,vue,nuxt,javascript,typescript,rust,cpp,c,python)
+![Stack](https://skills.syvixor.com/api/icons?i=ollama,nuxt,javascript,rust,cpp,c,python)
 ---
 
 ## ✍️
