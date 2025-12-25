@@ -15,13 +15,13 @@
 ---
 
 <pre>
-Cool GitHub ReadMe [Version 41.0.0]
+Cool GitHub ReadMe [Version 42.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
 
 💻 OS: <b>Windows 11</b>
-🖱️ Unity Version: <b>Unity 6.0</b>
+⚙️ Unity Version: <b>Unity 6.0</b>
 👀 Main IDE: <b>Visual Studio 2026 Insiders</b>
 🎮 Favorite Game: <b>Red Dead Redemption 2</b>
 
@@ -33,11 +33,7 @@ C:\Windows\System32> exit
 ## ⭐️ Best Achievements
 
 - Created world's first Unity framework that lets you talk with AI in real-time
-- Created world's first Unity tool for real-time emotion, gesture & blink recognition from webcam.
-- Integrated [Ollama](https://ollama.com) in Unity and C++.
 - Some of my repositories were added to [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations).
-- Created desktop app in Rust that monitors game you're playing and changes Github status based on it.
-- Created suitable for micro-benchmarks and hot-path measurement, zero-allocation, native high-resolution timer for Unity
 
 ---
 
@@ -48,14 +44,26 @@ C:\Windows\System32> exit
 
 ---
 
-## 🔥 Languages & Frameworks & Tools I work with:
-![Stack](https://skills.syvixor.com/api/icons?i=windows,unity,dnspy,visualstudio,visualstudiocode,dotnet,csharp,batchfile)
+## ⚙️ Tech Stack
 
-&nbsp;
+### GOAT Skills
 
-## 🧪 I also experiment with these things:
+> I know it better than my native language!
 
-![Stack](https://skills.syvixor.com/api/icons?i=ollama,nuxt,javascript,rust,cpp,c,python)
+![GoatStack](https://skills.syvixor.com/api/icons?i=unity,csharp)
+
+### Good Skills
+
+> I know a lot and like working with these
+
+![GoodStack](https://skills.syvixor.com/api/icons?i=ollama,dotnet,slint,cpp,batchfile)
+
+### Basic Skills
+
+> Sometimes I work with them, but have only basic knowledge and experience
+
+![BasicStack](https://skills.syvixor.com/api/icons?i=nuxt,js,ts,c,rust,python)
+
 ---
 
 ## ✍️
