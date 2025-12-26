@@ -15,7 +15,7 @@
 ---
 
 <pre>
-Cool GitHub ReadMe [Version 42.0.0]
+Cool GitHub ReadMe [Version 43.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -39,8 +39,8 @@ C:\Windows\System32> exit
 
 ## 📊 Stats
 
-<!-- Hide C and TypeScript cuz they have a very small percantage -->
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown,typescript)
+<!-- Hided TypeScript cuz they have a very small percantage -->
+![Langs](https://github-readme-stats-deploy-flame.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown,typescript)
 
 ---
 
