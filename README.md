@@ -15,7 +15,7 @@
 ---
 
 <pre>
-Cool GitHub README [Version 44.0.0]
+Cool GitHub README [Version 46.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -39,7 +39,6 @@ C:\Windows\System32> exit
 
 ## 📊 Stats
 
-<!-- Hided TypeScript cuz they have a very small percantage -->
 ![Langs](https://github-readme-stats-deploy-flame.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown,typescript)
 
 ---
@@ -48,7 +47,7 @@ C:\Windows\System32> exit
 
 ### GOAT Skills
 
-> I know it better than my native language!
+> I know these better than my native language!
 
 ![GoatStack](https://skills.syvixor.com/api/icons?i=unity,csharp)
 
