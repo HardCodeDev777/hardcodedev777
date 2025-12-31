@@ -15,7 +15,7 @@
 ---
 
 <pre>
-Cool GitHub ReadMe [Version 44.0.0]
+Cool GitHub README [Version 44.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
