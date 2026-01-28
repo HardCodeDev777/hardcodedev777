@@ -15,7 +15,7 @@
 ---
 
 <pre>
-Cool GitHub README [Version 48.0.0]
+Cool GitHub README [Version 49.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -30,16 +30,9 @@ C:\Windows\System32> exit
 
 ---
 
-## ⭐️ Best Achievements
-
-- Created world's first Unity framework that lets you talk with AI in real-time
-- Some of my repositories were added to [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations).
-
----
-
 ## 📊 Stats
 
-![Langs](https://github-readme-stats-deploy-flame.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=15&theme=holi&hide=css,html,xml,markdown)
+![Langs](https://github-readme-stats-deploy-flame.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=20&theme=holi&hide=css,html,xml,markdown)
 
 ---
 
@@ -59,9 +52,9 @@ C:\Windows\System32> exit
 
 ### Basic Skills
 
-> Sometimes I work with them, but have only basic knowledge and experience
+> Sometimes I experiment with them, but have only basic knowledge and experience
 
-![BasicStack](https://skills.syvixor.com/api/icons?i=burpsuite,vmware,nuxt,js,ts,c,rust,python)
+![BasicStack](https://skills.syvixor.com/api/icons?i=burpsuite,vmware,nuxt,js,ts,c,rust,python,bash)
 
 ---
 
