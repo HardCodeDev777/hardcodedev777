@@ -15,7 +15,7 @@
 ---
 
 <pre>
-Cool GitHub README [Version 49.0.0]
+Cool GitHub README [Version 50.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -48,13 +48,13 @@ C:\Windows\System32> exit
 
 > I know a lot and like working with these
 
-![GoodStack](https://skills.syvixor.com/api/icons?i=ollama,slint,cpp,cmake,batchfile)
+![GoodStack](https://skills.syvixor.com/api/icons?i=dnspy,ollama,slint,cpp,cmake,batchfile)
 
 ### Basic Skills
 
 > Sometimes I experiment with them, but have only basic knowledge and experience
 
-![BasicStack](https://skills.syvixor.com/api/icons?i=burpsuite,vmware,nuxt,js,ts,c,rust,python,bash)
+![BasicStack](https://skills.syvixor.com/api/icons?i=vmware,nuxt,js,ts,c,rust,python,bash)
 
 ---
 
