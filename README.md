@@ -48,7 +48,7 @@ C:\Windows\System32> exit
 
 > I know a lot and like working with these
 
-![GoodStack](https://skills.syvixor.com/api/icons?i=dnspy,ollama,slint,cpp,cmake,batchfile)
+![GoodStack](https://skills.syvixor.com/api/icons?i=dotnet,dnspy,ollama,slint,cpp,cmake,batchfile)
 
 ### Basic Skills
 
