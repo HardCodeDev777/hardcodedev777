@@ -1,5 +1,3 @@
-<!-- Damn, my README is so good -->
-
 <p align="center">
   <img src="media/WithoutCoding.gif" width="600"/>
 </p>
@@ -15,7 +13,7 @@
 ---
 
 <pre>
-Cool GitHub README [Version 50.0.0]
+Cool GitHub README [Version 52.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -23,7 +21,6 @@ C:\Windows\System32> systeminfo
 💻 OS: <b>Windows 11</b>
 ⚙️ Unity Version: <b>Unity 6.0</b>
 👀 Main IDE: <b>Visual Studio 2026 Insiders</b>
-🎮 Favorite Game: <b>Red Dead Redemption 2</b>
 
 C:\Windows\System32> exit
 </pre>
