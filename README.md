@@ -7,14 +7,14 @@
 ---
 
 <pre>
-Cool GitHub README [Version 54.0.0]
+Cool GitHub README [Version 55.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
 
 💻 OS:    <b>Windows 11</b>
 🧠 CPU:   <b>AMD Ryzern 7 3700X</b>
-🎮 GPU:   <b>NVIDIA GeForce RTX 4060 Ti 16GB</b>
+🎮 GPU:   <b>NVIDIA GeForce RTX 4060 Ti 16 GB</b>
 🧮 RAM:   <b>32 GB DDR4</b>
 
 ⚙️ Unity: <b>Unity 6.0</b>
