@@ -7,7 +7,7 @@
 ---
 
 <pre>
-Cool GitHub README [Version 58.0.0]
+Cool GitHub README [Version 59.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -22,12 +22,6 @@ C:\Windows\System32> systeminfo
 
 C:\Windows\System32> exit
 </pre>
-
----
-
-## 📊 Stats
-
-![Langs](https://github-readme-stats-deploy-flame.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=20&theme=holi&hide=css,html,xml,markdown)
 
 ---
 
