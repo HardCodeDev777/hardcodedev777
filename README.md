@@ -7,7 +7,7 @@
 ---
 
 <pre>
-Cool GitHub README [Version 59.0.0]
+Cool GitHub README [Version 60.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -17,7 +17,7 @@ C:\Windows\System32> systeminfo
 🎮 GPU:   <b>NVIDIA GeForce RTX 4060 Ti 16 GB</b>
 🧮 RAM:   <b>32 GB DDR4</b>
 
-⚙️ Unity: <b>Unity 6.0</b>
+⚙️ Unity: <b>Unity 6.4</b>
 👀 IDE:   <b>Visual Studio 2026 Insiders</b>
 
 C:\Windows\System32> exit
