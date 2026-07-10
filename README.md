@@ -7,7 +7,7 @@
 ---
 
 <pre>
-Cool GitHub README [Version 60.0.0]
+Cool GitHub README [Version 62.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
@@ -27,17 +27,13 @@ C:\Windows\System32> exit
 
 ## ⚙️ Tech Stack
 
-### GOAT Skills
+### Main Skills
 
-![GoatStack](https://skills.syvixor.com/api/icons?i=unity,csharp)
+![GoatStack](https://skills.syvixor.com/api/icons?i=unity,csharp,dotnet,batchfile,dnspy)
 
-### Good Skills
+### Other Skills
 
-![GoodStack](https://skills.syvixor.com/api/icons?i=dotnet,dnspy,ollama,slint,cpp,cmake,batchfile)
-
-### Basic Skills
-
-![BasicStack](https://skills.syvixor.com/api/icons?i=nuxt,js,ts,c,rust,python,bash)
+![GoodStack](https://skills.syvixor.com/api/icons?i=ollama,cpp,cmake,slint)
 
 ---
 
