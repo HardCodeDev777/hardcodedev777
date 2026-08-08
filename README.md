@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=15+y.o.+developer+from+Russia;Middle+Unity+Tech+Engineer;And+just+a+cool+guy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=15+y.o.+developer+from+Russia;Middle+Unity+Game+Developer;And+just+cool+guy">
   </a>
 </p>
 
 ---
 
 <pre>
-Cool GitHub README [Version 62.0.0]
+Cool GitHub README [Version 63.0.0]
 (c) HardCodeDev. All rights reserved.
   
 C:\Windows\System32> systeminfo
