@@ -42,3 +42,9 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Slint%20UI-2379F7?style=for-the-badge&logo=slint&logoColor=white" height="28">
+
+---
+
+### 📬 Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HardCodeDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:hardcodedev777@yandex.com)
