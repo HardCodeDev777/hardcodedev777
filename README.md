@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=15+y.o.+developer+from+Russia;.NET+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=15+y.o.+developer+from+Russia;.NET+Software+Engineer&center=true&vCenter=true)](https://git.io/typing-svg)
 
 ---
 
@@ -42,11 +42,3 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Slint](https://img.shields.io/badge/Slint%20UI-2379F7?style=for-the-badge&logo=slint&logoColor=white)
-
----
-
-### ✍️
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=It%20works%20on%20my%20machine.)
-
-</div>
