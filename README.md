@@ -18,15 +18,15 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28">
 
-#### Apps, UI & GameDev
-<img src="https://img.shields.io/badge/Avalonia%20UI-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Spectre.Console-2C2D72?style=for-the-badge&logo=windowsterminal&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="28">
-
 #### DevOps, CI/CD & Tools
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="28">
+
+#### Apps, CLI & GameDev
+<img src="https://img.shields.io/badge/Avalonia-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Spectre.Console-2C2D72?style=for-the-badge&logo=windowsterminal&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="28">
 
 #### Architecture, Testing & Observability
 <img src="https://img.shields.io/badge/Dependency%20Injection-512BD4?style=for-the-badge" height="28">
